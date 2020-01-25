@@ -13,7 +13,7 @@
     "require": {
         "php": "^7.3",
         "doctrine/doctrine-bundle": "^1.12 || ^2.0",
-        "doctrine/orm": "<2.7",
+        "doctrine/orm": "^2.7",
         "nucleos/user-bundle": "^1.0"
     },
     "require-dev": {
