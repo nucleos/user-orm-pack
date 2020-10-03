@@ -6,7 +6,7 @@ repository:
   name: user-orm-pack
   description: 👤 A pack for NucleosUserBundle with Doctrine ORM support
   homepage: https://docs.nucleos.rocks
-  topics: symfony, symfony-pack
+  topics: hacktoberfest, symfony, symfony-pack
 
 branches:
   - name: main
