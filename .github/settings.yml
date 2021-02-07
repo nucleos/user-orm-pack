@@ -3,8 +3,8 @@
 _extends: .github
 
 repository:
-  name: user-orm-pack
-  description: 👤 A pack for NucleosUserBundle with Doctrine ORM support
+  name: user-odm-pack
+  description: 👤 A pack for NucleosUserBundle with MongoDB support
   homepage: https://docs.nucleos.rocks
   topics: hacktoberfest, symfony, symfony-pack
 
