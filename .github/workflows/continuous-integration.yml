@@ -37,7 +37,7 @@ jobs:
         run: composer validate --strict
 
       - name: "Cache dependencies installed with composer"
-        uses: actions/cache@v2
+        uses: actions/cache@v2.1.4
         with:
           path: ~/.composer/cache
           key: php${{ matrix.php-version }}-composer-
