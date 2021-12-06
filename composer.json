@@ -1,15 +1,15 @@
 {
     "name": "nucleos/user-orm-pack",
-    "type": "symfony-pack",
     "description": "A pack for NucleosUserBundle with Doctrine ORM support",
-    "homepage": "https://nucleos.rocks",
     "license": "MIT",
+    "type": "symfony-pack",
     "authors": [
         {
             "name": "Christian Gripp",
             "email": "mail@core23.de"
         }
     ],
+    "homepage": "https://nucleos.rocks",
     "require": {
         "php": "^7.3 || ^8.0",
         "doctrine/doctrine-bundle": "^1.12 || ^2.0",
