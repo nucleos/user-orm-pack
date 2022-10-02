@@ -14,7 +14,7 @@ branches:
       enforce_admins: false
       required_status_checks:
         contexts:
-          - "Coding Standards (7.4)"
+          - "Coding Standards (8.0)"
         strict: true
 
       required_pull_request_reviews: null
