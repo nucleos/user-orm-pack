@@ -14,7 +14,7 @@
         "php": "^8.1",
         "doctrine/doctrine-bundle": "^1.12 || ^2.0",
         "doctrine/orm": "^2.7",
-        "nucleos/user-bundle": "^2.0"
+        "nucleos/user-bundle": "^3.0"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.0.1"
